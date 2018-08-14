@@ -65,4 +65,7 @@ typings/
 # Webstorm
 .idea/
 
-yarn\.lock
+.src/*.js
+
+
+*.js
